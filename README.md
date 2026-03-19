@@ -106,10 +106,11 @@ Clean and professional layout
 Business-focused visual storytelling
 
 📸 Dashboard Previews
-Overview Page
-https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Dashboard%201.png
-
-Ratings Page
-https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Dashboard%202.png
-Rating Page:
-https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/Airbnb%20ratings%20detailed.png
+**Overall Report:**
+https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/Airbnb%20dashboard..pdf
+**Main Page**
+[https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Dashboard%201.png](https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/01_Airbnb%20Dashboard.png)
+**Dashboard 2:(Overall Ratings)**
+[https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Dashboard%202.png](https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/02_Airbnb%20Dashboard.png)
+**Dashboard 2:(Detailled Ratings)**
+[https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/Airbnb%20ratings%20detailed.png](https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/03_Airbnb%20ratings%20detailed.png)
