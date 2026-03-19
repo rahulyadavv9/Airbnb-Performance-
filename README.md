@@ -111,3 +111,5 @@ https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Das
 
 Ratings Page
 https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Dashboard%202.png
+Rating Page:
+https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/Airbnb%20ratings%20detailed.png
